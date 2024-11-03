@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on ESTR1005 final, wanna cry
-🌱 I’m currently learning Linear Algebra
+<!--🔭 I’m currently working on ESTR1005 final, wanna cry
+#🌱 I’m currently learning Linear Algebra-->
 
 <!--
 **kobelo0213/kobelo0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
